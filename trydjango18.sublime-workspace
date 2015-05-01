@@ -1,0 +1,945 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"per",
+				"permissions"
+			],
+			[
+				"permiss",
+				"permissions"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"de",
+				"decorators"
+			],
+			[
+				"a",
+				"a_new_list"
+			],
+			[
+				"the",
+				"the_list"
+			],
+			[
+				"line",
+				"line_breaks"
+			],
+			[
+				"is",
+				"is_manager"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"redi",
+				"redis_url"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"get",
+				"get_or_create"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"f",
+				"featurette"
+			],
+			[
+				"max",
+				"max_length	None"
+			],
+			[
+				"Htt",
+				"HttpResponsePermanentRedirect	class"
+			],
+			[
+				"co",
+				"correct_answer"
+			],
+			[
+				"question",
+				"question_type"
+			],
+			[
+				"lo",
+				"login_required	function"
+			],
+			[
+				"Le",
+				"LectureQuestion	class"
+			],
+			[
+				"Que",
+				"QuestionAnswerInline"
+			],
+			[
+				"L",
+				"LectureQuestion	class"
+			],
+			[
+				"for",
+				"ForeignKey	class"
+			],
+			[
+				"se",
+				"settings	instance"
+			],
+			[
+				"Lecture",
+				"LectureCompletion	class"
+			],
+			[
+				"prev",
+				"prev_item	statement"
+			],
+			[
+				"nex",
+				"next_item	statement"
+			],
+			[
+				"prv",
+				"prev_item	statement"
+			],
+			[
+				"fin",
+				"finished	statement"
+			],
+			[
+				"Lec",
+				"LectureCompletion	class"
+			],
+			[
+				"le",
+				"lecture_id	statement"
+			],
+			[
+				"ne",
+				"new_view	statement"
+			],
+			[
+				"con",
+				"conf	module"
+			],
+			[
+				"base",
+				"base_name	statement"
+			],
+			[
+				"file",
+				"filename	statement"
+			],
+			[
+				"Question",
+				"QuestionManager"
+			],
+			[
+				"Text",
+				"TextInput	class"
+			],
+			[
+				"Http",
+				"Http404	class"
+			],
+			[
+				"next",
+				"next_page	statement"
+			],
+			[
+				"vide",
+				"video_file"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"help",
+				"help_text	''"
+			],
+			[
+				"vid",
+				"video_file"
+			],
+			[
+				"get_",
+				"get_queryset"
+			],
+			[
+				"new_",
+				"new_slug	statement"
+			],
+			[
+				"S3",
+				"S3DirectWidget	class"
+			],
+			[
+				"w",
+				"widgets	module"
+			],
+			[
+				"cre",
+				"create_video_tupe	function"
+			],
+			[
+				"fi",
+				"file_string"
+			],
+			[
+				"up",
+				"uploadTo"
+			],
+			[
+				"H",
+				"Http404	class"
+			],
+			[
+				"Video",
+				"VideoForm	class"
+			],
+			[
+				"Vi",
+				"VideoForm	class"
+			],
+			[
+				"PRE",
+				"pre_save	statement"
+			],
+			[
+				"Vid",
+				"Video	class"
+			],
+			[
+				"get_user",
+				"get_user_model	function"
+			],
+			[
+				"fr",
+				"friends"
+			],
+			[
+				"ip",
+				"ip_overload"
+			],
+			[
+				"email_",
+				"email_user	statement"
+			],
+			[
+				"EmailF",
+				"emailfriends"
+			],
+			[
+				"Em",
+				"EmailFriends	class"
+			],
+			[
+				"Ema",
+				"EmailSignUp	class"
+			],
+			[
+				"x",
+				"x_forwarded_for	statement"
+			],
+			[
+				"ref",
+				"ref_id"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"j",
+				"jumbotron"
+			],
+			[
+				"data-",
+				"data-toggle"
+			],
+			[
+				"fo",
+				"font-variant"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"Date",
+				"DateTimeField	class"
+			],
+			[
+				"Not",
+				"NotificationAdmin	class"
+			],
+			[
+				"No",
+				"Notification	class"
+			],
+			[
+				"notifi",
+				"notified	statement"
+			],
+			[
+				"ses",
+				"ses	module"
+			],
+			[
+				"My",
+				"MyLectureView	class"
+			],
+			[
+				"Suggest",
+				"SuggestionManager"
+			],
+			[
+				"Sugg",
+				"SuggestionManager	class"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"ke",
+				"key_list	statement"
+			],
+			[
+				"password",
+				"password_reset_done"
+			],
+			[
+				"MEDIA",
+				"MEDIA_URL	statement"
+			],
+			[
+				"proje",
+				"project	statement"
+			],
+			[
+				"key",
+				"key_list_here	statement"
+			],
+			[
+				"Project",
+				"ProjectCode	class"
+			],
+			[
+				"com",
+				"completed_num"
+			],
+			[
+				"auto_now",
+				"auto_now_add"
+			],
+			[
+				"Dat",
+				"DateTimeField	class"
+			],
+			[
+				"comp",
+				"completed	statement"
+			],
+			[
+				"coo",
+				"cookie_time"
+			],
+			[
+				"wi",
+				"wistiaEmbed"
+			],
+			[
+				"Subc",
+				"subscribed"
+			],
+			[
+				"new",
+				"newsletter"
+			],
+			[
+				"Projec",
+				"ProjectManager	class"
+			],
+			[
+				"Ht",
+				"Http404	class"
+			],
+			[
+				"lecu",
+				"lecture_id"
+			],
+			[
+				"chec",
+				"check_user_project	function"
+			],
+			[
+				"API",
+				"ApiKey	import"
+			],
+			[
+				"AP",
+				"ApiKey"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"Aut",
+				"Authorization"
+			],
+			[
+				"Au",
+				"Authentication"
+			],
+			[
+				"v1",
+				"v1_api"
+			],
+			[
+				"User",
+				"UserQuestion	class"
+			],
+			[
+				"class",
+				"classmethod	class"
+			],
+			[
+				"Lecu",
+				"Lecture	class"
+			],
+			[
+				"ex",
+				"exception	param"
+			],
+			[
+				"http",
+				"HttpResponseRedirect	class"
+			],
+			[
+				"SOCIAL_AUTH_STR",
+				"SOCIAL_AUTH_STRIPE_KEY"
+			],
+			[
+				"pa",
+				"patterns	function"
+			],
+			[
+				"sta",
+				"start_date"
+			],
+			[
+				"url",
+				"urlpatterns	statement"
+			],
+			[
+				"UserType",
+				"UserType	class"
+			],
+			[
+				"htt",
+				"Http404"
+			],
+			[
+				"wist",
+				"wistia_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jmitch/Desktop/delete.py",
+		"/Users/jmitch/Desktop/drf/src/comments/views.py",
+		"/Users/jmitch/Desktop/drf/src/accounts/models.py",
+		"/Users/jmitch/Desktop/drf/src/comments/permissions.py",
+		"/Users/jmitch/Desktop/drf/src/videos/permissions.py",
+		"/Users/jmitch/Desktop/drf/src/videos/views.py",
+		"/Users/jmitch/Desktop/drf/src/jquery_test/installation.txt",
+		"/Users/jmitch/Desktop/jquery_test/index.html",
+		"/Users/jmitch/Desktop/jquery_test.html",
+		"/Users/jmitch/Desktop/drf/src/videos/serializers.py",
+		"/Users/jmitch/Desktop/drf/src/srvup/views.py",
+		"/Users/jmitch/Desktop/drf/src/srvup/urls.py",
+		"/Users/jmitch/Desktop/drf/src/srvup/utils.py",
+		"/Users/jmitch/Desktop/drf/src/videos/models.py",
+		"/Users/jmitch/Desktop/30daysofdjango/5_loops.py",
+		"/Users/jmitch/Desktop/30daysofdjango/5_loops",
+		"/Users/jmitch/Desktop/xpytests/sub.py",
+		"/Users/jmitch/Desktop/30daysofdjango/3_math.py",
+		"/Users/jmitch/Desktop/30daysofdjango/2_strings.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/pdfs/tm_details_download.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/admin.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/team/home.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/team/documents.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/local.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/__init__.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/base.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/Procfile",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/production.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/celery.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/sidebar.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/lectures/all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/tasks.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/models.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/team/activity.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/teams/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/quiz/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/teams/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/__init__.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/base.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/quiz/user_results_all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/models.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/questions/all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/lectures/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/welcomeModal.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/navbar.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/accounts/login.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/accounts/join.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/videos/all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/accounts/team.html",
+		"/Users/jmitch/Dropbox/cfe/src/projects/cloudfront.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/test_css.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/views.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/views.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/footer.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/accounts/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/base.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/home.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/static/static_dir/css/signin.css",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/accounts/register.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/forms.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/quiz/admin.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/quiz.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/quiz/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/analytics/ajax.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/views.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/urls.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/urls.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/core_css.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/navbar.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/settings/local.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/settings/base.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/test_js.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/settings/production.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/urls.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/single.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/analytics/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/analytics/admin.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/analytics/utils.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/analytics/urls.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/admin.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/questions/admin.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/questions/forms.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/edit_modules.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/edit_lecture.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/accounts/login.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/questions/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/forms.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/db.sqlite3",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/manage_base.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/upload.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/accounts/navbar.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/coming_soon.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/create_form.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/form_view.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/all.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/manage.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/s3direct/utils.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/Procfile",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/javascript.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/s3upload/urls.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/s3upload/views.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/s3_upload.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/static/static_dir/js/jquery.fileupload.js",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/s3upload/__init__.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/static/static_dir/js/file_upload.js",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/static/static_dir/js/jquery_upload.js",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/form.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/requirements.txt",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/utils.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/tests.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/dashboard.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/s3utils.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/single_test.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/wsgi.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/accounts/signup.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/static/static_dirs",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/settings/__init__.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/settings.py",
+		"/Users/jmitch/Dropbox/sfe/sfe/.gitignore",
+		"/Users/jmitch/Dropbox/sfe/sfe/sfe/settings/local.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/jmitch/Dropbox/cfe/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CORS",
+			"render_to_pdf",
+			"render_to",
+			"TIME_ZONE",
+			"send_mail",
+			"emai",
+			"send_email",
+			"celery",
+			"download",
+			"documents",
+			"login_required",
+			"staticfile",
+			"sidebar",
+			"active",
+			".footer",
+			"option",
+			"href='#",
+			"href=\"#",
+			"join",
+			"md",
+			"pesticide",
+			"td",
+			"pricing",
+			"all",
+			"reset",
+			"next",
+			"video",
+			"model",
+			"embed",
+			"dropdown",
+			"completed",
+			"start",
+			"quiz",
+			"print",
+			"id=",
+			"action",
+			"reverse",
+			"alert",
+			"error",
+			"ask",
+			"questions",
+			"actions",
+			"questions",
+			"transcript",
+			"Lecture",
+			"User",
+			"Lecture",
+			"reply",
+			"min-height",
+			"transcriptText",
+			"transcriptContainer",
+			"transcript",
+			"toggleTrans",
+			"print",
+			"video",
+			"remove",
+			"update",
+			"remove",
+			"url",
+			"hash",
+			"verbose_name",
+			"height",
+			"top",
+			"view",
+			"transcript",
+			"<i",
+			"fa",
+			"transcriptText",
+			"questions",
+			"span",
+			"transcript",
+			":",
+			"currentTime",
+			"cookie",
+			"current",
+			"updated",
+			"questions",
+			"krtoor6jqe",
+			"block",
+			"#wistia",
+			"id",
+			"wistia",
+			"lecture",
+			"wistia",
+			"wisita",
+			"url",
+			"filename",
+			"wistia",
+			"id",
+			"video",
+			"url",
+			"projects",
+			"filename",
+			"password",
+			"favicon",
+			"fav",
+			"bookmark it",
+			"share",
+			"information",
+			"imformation",
+			"people",
+			"someref",
+			"ip",
+			"complete",
+			"danger",
+			"500",
+			"1 month",
+			"download",
+			"progress-bar",
+			"access",
+			"plus",
+			"community",
+			"img",
+			"iphone",
+			"iphoneImg",
+			"img/apple-touch-icon-152-precomposed.png",
+			"static",
+			"unlock",
+			"unlock first",
+			"built",
+			"while we",
+			"jumbo",
+			"form",
+			"emailTool",
+			"id=\"email",
+			"#email",
+			"id=\"email",
+			"id='email"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"img/apple-touch-icon-152.png",
+			"{})",
+			"render(request,",
+			"render(",
+			")",
+			"render(request,",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango18.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 378.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
