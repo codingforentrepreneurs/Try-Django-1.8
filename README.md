@@ -10,7 +10,7 @@ The tutorial videos are available on our [YouTube channel](http://joincfe.com/yo
 The tutorial code below is the final code from the end of each tutorial video. Each link below is tied directly to the tutorial's title. Some videos will not have code reference code.
 
 ## Tutorial Code
-[Template Configuration](../../tree/08c027fd715a47a0d19587d6dab1be73e6a92530)
+[Template Configuration](../../tree/4d21a37f1c20f18bbee65530dd48a6c8cd31d6df)
 
 
 
