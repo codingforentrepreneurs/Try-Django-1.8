@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "src"
+		},
+		{
+			"path": "static_in_env"
 		}
 	]
 }
