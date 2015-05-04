@@ -5,6 +5,12 @@
 
 {% block head_title %}Welcome | {{ block.super }}{% endblock %}
 
+<style>
+{% block style %}
+
+
+{% endblock %}
+</style>
 
 
 {% block jumbotron_content %}
@@ -31,7 +37,7 @@
 
   <div class="col-sm-3 pull-right">
   	
-			<p class='lead'>{{ title }}</p>
+			<p class='lead text-align-center'>{{ title }}</p>
 
 			<form method='POST' action=''>{% csrf_token %}
 			{{ form|crispy }}
@@ -42,15 +48,15 @@
 	</div>
 
 	<div class='col-sm-3'>
-<p class='lead'>Built with Django &amp; Bootstrap</p>
+<p class='lead text-align-center'>Built with Django &amp; Bootstrap</p>
 </div>
 
 <div class='col-sm-3'>
-<p class='lead'>Created for Starters of all kinds. </p>
+<p class='lead text-align-center'>Created for Starters of all kinds. </p>
 </div>
 
 <div class='col-sm-3'>
-<p class='lead'>Always Open Source</p>
+<p class='lead text-align-center'>Always Open Source</p>
 </div>
 
 
