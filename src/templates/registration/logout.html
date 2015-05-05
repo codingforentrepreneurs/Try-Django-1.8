@@ -2,5 +2,5 @@
 {% load i18n %}
 
 {% block content %}
-<p>{% trans "Logged out" %}</p>
+<p class='text-align-center lead'>You have successfully logged out.</p><p class='text-align-center lead'><a href="{% url 'auth_login' %}">Login</a></p></p>
 {% endblock %}
