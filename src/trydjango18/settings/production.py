@@ -105,7 +105,7 @@ if not settings.DEBUG:
 
 	# Database
 	# https://docs.djangoproject.com/en/1.8/ref/settings/#databases
-	
+
 	from .db_password import DBPASS
 
 	DATABASES = {
@@ -137,7 +137,8 @@ if not settings.DEBUG:
 
 	STATIC_URL = '/static/'
 
-	STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_in_env", "static_root")
+	STATIC_ROOT = '/home/cfedeploy/webapps/mvpland_static/'
+	#os.path.join(os.path.dirname(BASE_DIR), "static_in_env", "static_root")
 	    
 	STATICFILES_DIRS = (
 	    os.path.join(BASE_DIR, "static_in_pro", "our_static"),
@@ -146,8 +147,8 @@ if not settings.DEBUG:
 	)
 
 	MEDIA_URL = '/media/'
-	MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_in_env", "media_root")
-
+	MEDIA_ROOT = '/home/cfedeploy/webapps/mvpland_media/'
+	#os.path.join(os.path.dirname(BASE_DIR), "static_in_env", "media_root")
 
 
 	#Crispy FORM TAGs SETTINGS
