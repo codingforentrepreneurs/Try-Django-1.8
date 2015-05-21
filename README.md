@@ -1,7 +1,7 @@
-Try Django 1.8
-=========
-
 ![Try Django 1.8 Logo](https://cfe-static.s3.amazonaws.com/media/try-django-18/images/try_django_18.png)
+
+Try Django 1.8 Tutorial Series
+=========
 
 Try Django 1.8 is an introduction to [Django](http://djangoproject.com) version 1.8. This series covers a variety of Django basics as well as Django 1.8 specific material. Created by Team CFE @ [http://joincfe.com](http://joincfe.com).
 
