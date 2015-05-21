@@ -13,7 +13,7 @@ class SignUpForm(forms.ModelForm):
 		model = SignUp
 		fields = ['full_name', 'email']
 		### exclude = ['full_name']
-
+	
 	def clean_email(self):
 		email = self.cleaned_data.get('email')
 		email_base, provider = email.split("@")

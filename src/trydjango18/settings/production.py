@@ -36,7 +36,13 @@ if not settings.DEBUG:
 	# SECURITY WARNING: don't run with debug turned on in production!
 	DEBUG = False
 
-	ALLOWED_HOSTS = ['cfedeploy.webfactional.com']
+	ADMINS = (
+		("Justin", "codingforentrepreneurs@gmail.com"),
+
+		)
+
+	ALLOWED_HOSTS = ['cfedeploy.webfactional.com', 'trydjango.com', 'www.trydjango.com']
+	#purchasing domain name http://name.com
 
 	EMAIL_HOST = 'smtp.gmail.com'
 	EMAIL_HOST_USER = 'yourgmail@gmail.com'
